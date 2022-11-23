@@ -1,0 +1,16 @@
+﻿@using Parcial.Models;
+@{
+    ViewBag.Title = "ListarOferta";
+}
+
+<h2>ListarOferta</h2>
+
+<table border="1">
+    <tr><td>Patente</td><td>Marca</td><td>KM</td><td>Promocion</td><td>Precio</td></tr>
+    @foreach (Autos a in Model)
+    {
+        <tr><td>@a.Patente</td><td>@a.Marca.Nombre</td><td>@a.Km</td><td>@a.PromocionSiNo()</td><td>@a.Precio()</td></tr>
+    }
+</table>
+ @Html.ActionLink("Cargar Auto", "Index")
+ @Html.ActionLink("Cargar Auto Menos KM", "ListaMenosKM")

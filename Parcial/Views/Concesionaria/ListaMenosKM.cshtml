@@ -1,0 +1,12 @@
+﻿@using Parcial.Models;
+@{
+    ViewBag.Title = "ListaMenosKM";
+}
+
+<h2>ListaMenosKM</h2>
+<table border="1">
+    <tr><td>Patente</td><td>Marca</td><td>KM</td><td>Promocion</td><td>Precio</td></tr>
+    <tr><td>@Model.Patente</td><td>@Model.Marca.Nombre</td><td>@Model.Km</td><td>@Model.PromocionSiNo()</td><td>@Model.Precio()</td></tr>
+</table>
+ @Html.ActionLink("Cargar Auto", "Index")
+ @Html.ActionLink("Cargar Auto Ofertas", "ListarOferta")

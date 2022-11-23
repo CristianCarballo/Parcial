@@ -1,0 +1,82 @@
+﻿
+@using Parcial.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Cargar Autos</h2>
+@model AutoMarcas
+
+
+    <form action="" method="post">
+        <table>
+            <tr>
+                <td>
+                    @Html.Label("Patente")
+
+
+                </td>
+                <td>
+                    @Html.TextBoxFor(x => x.Auto.Patente)
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.Label("KM")
+
+
+                </td>
+                <td>
+                    @Html.TextBoxFor(x => x.Auto.Km)
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.Label("Precio")
+
+
+                </td>
+                <td>
+                    @Html.TextBoxFor(x => x.Auto.PrecioReal)
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    @Html.Label("Promocion")
+
+
+                </td>
+                <td>
+                    @Html.CheckBoxFor(x => x.Auto.Promocion)
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    @Html.Label("Marca")
+
+
+                </td>
+                <td>
+                    @Html.DropDownListFor(x => x.Auto.Marca.IdMarca, new SelectList(Model.Marcas, "IdMarca", "Nombre"))
+                </td>
+            </tr>
+        </table>
+        <br />
+        <input type="submit" value="Cargar" />
+        <form>
+            @Html.ActionLink("Cargar Auto Ofertas", "ListarOferta")
+            @Html.ActionLink("Cargar Auto Menos KM", "ListaMenosKM")
+        </form>
+        
+        @if (ViewBag.showSuccessAlert)
+        {
+            <script>
+                alert('Los datos no se grabaron ');
+            </script>
+        }
+        
+
+    

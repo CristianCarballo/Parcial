@@ -1,0 +1,225 @@
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Parcial.dll.config
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Parcial.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Parcial.pdb
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csc.exe
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csc.exe.config
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csc.rsp
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csi.exe
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csi.exe.config
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\csi.rsp
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.AppContext.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Console.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Claims.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\vbc.exe
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\vbc.exe.config
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\vbc.rsp
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Helpers.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Mvc.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Razor.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Razor.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Helpers.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\System.Web.Mvc.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\obj\Debug\Parcial.dll
+C:\Users\ALUMNO\Desktop\lambrecht\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Parcial.dll.config
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Parcial.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Parcial.pdb
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csc.exe
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csc.exe.config
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csc.rsp
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csi.exe
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csi.exe.config
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\csi.rsp
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.AppContext.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Console.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Claims.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\vbc.exe
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\vbc.exe.config
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\vbc.rsp
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Helpers.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Mvc.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Razor.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Razor.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Razor.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Webpages.Razor.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Helpers.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\System.Web.Mvc.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\obj\Debug\Parcial.dll
+C:\Users\ALE\Downloads\lambrecht~\lambrecht\Parcial\Parcial\obj\Debug\Parcial.pdb
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Parcial.dll.config
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Parcial.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Parcial.pdb
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csc.exe
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csc.exe.config
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csc.rsp
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csi.exe
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csi.exe.config
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\csi.rsp
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.AppContext.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Console.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.IO.Compression.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.IO.Pipes.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Claims.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.ValueTuple.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Xml.XPath.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\vbc.exe
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\vbc.exe.config
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\vbc.rsp
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Helpers.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Mvc.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Razor.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.Deployment.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.Razor.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Razor.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.Deployment.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Webpages.Razor.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Helpers.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\System.Web.Mvc.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Razor.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Webpages.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Helpers.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\bin\es\System.Web.Mvc.resources.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\obj\Debug\Parcial.csprojAssemblyReference.cache
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\obj\Debug\Parcial.csproj.CopyComplete
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\obj\Debug\Parcial.dll
+C:\Users\pepa_\Desktop\Parcial noche\Autos\Autos\Parcial\Parcial\obj\Debug\Parcial.pdb
